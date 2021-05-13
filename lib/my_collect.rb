@@ -1,4 +1,4 @@
-my_collect(collection) do |c|
+my_collect(collection) do |language|
   i = 0 
   new_collect = 0 
   while i < c.length 
